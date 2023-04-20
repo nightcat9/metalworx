@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/metalworx/static/css/main.e1971899.css",
+    "main.js": "/metalworx/static/js/main.5c81071e.js",
+    "static/media/home-hero.jpg": "/metalworx/static/media/home-hero.91a149b04e7e6c26c403.jpg",
+    "static/media/hydraulic.jpg": "/metalworx/static/media/hydraulic.012725419efb25aa0538.jpg",
+    "static/media/agriculture.jpg": "/metalworx/static/media/agriculture.f7d58de4a7c70a666733.jpg",
+    "static/media/machining-header.jpg": "/metalworx/static/media/machining-header.d3066f2d4cccbf00975e.jpg",
+    "static/media/castings-header.jpg": "/metalworx/static/media/castings-header.460c04b5ee2d5d4e8fce.jpg",
+    "static/media/products-header.jpg": "/metalworx/static/media/products-header.154366a68f77f0c04383.jpg",
+    "static/media/auto.jpg": "/metalworx/static/media/auto.719918cf426c48316055.jpg",
+    "static/media/casting-3.jpg": "/metalworx/static/media/casting-3.9715f59ba48631ed69dd.jpg",
+    "static/media/builds.jpg": "/metalworx/static/media/builds.98e67ecf986e0b34ab70.jpg",
+    "static/media/pipe.jpg": "/metalworx/static/media/pipe.58bb6fcc6212e4016848.jpg",
+    "static/media/ship.jpg": "/metalworx/static/media/ship.520384e516f5993d1903.jpg",
+    "static/media/meeting.jpg": "/metalworx/static/media/meeting.3d876bc5c394f669b73c.jpg",
+    "static/media/bright-spark.jpg": "/metalworx/static/media/bright-spark.95791444b195a3a48f07.jpg",
+    "static/media/contact-header.jpg": "/metalworx/static/media/contact-header.2d70997b5f942761f899.jpg",
+    "static/media/about-header.jpg": "/metalworx/static/media/about-header.64a13d1f602eef8dc37a.jpg",
+    "static/media/WarsawGothicExtended-K2Bo.otf": "/metalworx/static/media/WarsawGothicExtended-K2Bo.e3fc81d13c71e51dc9c8.otf",
+    "static/media/industrial.jpg": "/metalworx/static/media/industrial.f4ab951794fa9b9693a4.jpg",
+    "static/media/space-shuttle.jpg": "/metalworx/static/media/space-shuttle.f2dde52005f7296d8439.jpg",
+    "static/media/employee.jpg": "/metalworx/static/media/employee.a27a3e23d5da1f1d2228.jpg",
+    "static/media/project1_5.jpg": "/metalworx/static/media/project1_5.bf91b0fea0ddeb91a160.jpg",
+    "static/media/plane.jpg": "/metalworx/static/media/plane.24f79870397645fcc35f.jpg",
+    "static/media/retooling.jpg": "/metalworx/static/media/retooling.642e780a019cc8cf5327.jpg",
+    "static/media/machining-link.jpg": "/metalworx/static/media/machining-link.733942b64b724eeb94c1.jpg",
+    "static/media/footer.jpg": "/metalworx/static/media/footer.d5300f2e099849958533.jpg",
+    "static/media/casting-link.jpg": "/metalworx/static/media/casting-link.ab2da396eb2ea11409ee.jpg",
+    "static/media/Gemsbuck01Black-axn2g.ttf": "/metalworx/static/media/Gemsbuck01Black-axn2g.a31e4ed531d45b001dcc.ttf",
+    "static/media/metalworx_logo.png": "/metalworx/static/media/metalworx_logo.564c5356ee56462a417d.png",
+    "static/media/project1_3.jpg": "/metalworx/static/media/project1_3.ed0b9a3dd5adea7e629a.jpg",
+    "static/media/product-link.jpg": "/metalworx/static/media/product-link.39a6de2eddaace7a6fbf.jpg",
+    "index.html": "/metalworx/index.html",
+    "main.e1971899.css.map": "/metalworx/static/css/main.e1971899.css.map",
+    "main.5c81071e.js.map": "/metalworx/static/js/main.5c81071e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1971899.css",
+    "static/js/main.5c81071e.js"
+  ]
+}
