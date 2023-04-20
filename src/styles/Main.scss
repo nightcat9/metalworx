@@ -1,0 +1,191 @@
+@font-face {
+    font-family: "Gemsbuck";
+    src: url(../fonts/Gemsbuck01Black-axn2g.ttf);
+}
+
+@font-face {
+    font-family: "WarsawGothic";
+    src: url(../fonts/WarsawGothicExtended-K2Bo.otf);
+}
+
+.nav-link {
+    text-transform: uppercase;
+    font-family: "WarsawGothic";
+    letter-spacing: 1px;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.homeHeader,
+.aboutHeader,
+.machiningHeader,
+.productsHeader,
+.castingsHeader,
+.contactHeader {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.metalworx-building,
+.drilling-metal,
+.sparky-drilling,
+.gears,
+.castings,
+.contact {
+    width: 100%;
+}
+
+.bottom-section {
+    margin-top: 4%;
+    margin-bottom: 1%;
+}
+
+.machining-group, .products-group {
+    margin-right: 2%;
+    margin-top: 2%;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "WarsawGothic";
+}
+
+h2, h3 {
+    text-transform: uppercase;
+    word-spacing: 1rem;
+}
+
+h3 {
+    letter-spacing: .25rem;
+}
+
+h5 {
+    text-transform: uppercase;
+    word-spacing: .5rem;
+}
+
+h4 {
+    word-spacing: .5rem;
+}
+
+.icon {
+    color: #1b75bc;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+}
+
+.footer-nav a {
+    text-decoration: none;
+}
+
+.centered-text, .cardTitle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bodyContent {
+    margin-top: 4%;
+    
+}
+
+
+.img {
+    margin-top: 5%;
+    -webkit-filter: brightness(100%);
+    filter: brightness(100%);
+}
+
+.img:hover {
+    -webkit-filter: brightness(70%);
+    filter: brightness(70%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.about-img, .casting-img {
+    margin-top: 5%;
+}
+
+.img-fluid {
+    border-radius: 7px;
+}
+
+.footer-logo {
+    text-align: center;
+}
+
+.icons {
+    text-align: center;
+}
+
+.footer {
+    background-image: url(../images/footer.jpg);
+    margin-top: 5%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    font-family: "WarsawGothic";
+    color: rgb(0 0 0 / 55%);
+}
+
+.footer a {
+    color: rgb(0 0 0 / 55%);
+    font-size: larger;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+    text-transform: uppercase;
+}
+
+.icons a {
+    color: #1b75bc;
+}
+
+.icons a:hover, .footer a:hover {
+    color: darkblue; 
+}
+
+.email, .twitter, .facebook {
+    display: inline-block;
+    border-radius: 50px;
+    box-shadow: 0 0 2px #414141;
+    padding: 0.5em 0.6em;
+    margin: 1%;
+    color: #1b75bc;
+  }
+
+h1 {
+    font-family: "Gemsbuck";
+    /* Extra small devices (phones, less than 768px) */
+    font-size: 1.875rem;
+    
+    /* Small devices (tablets, 768px and up) */
+    @media (min-width: 768px) {
+      font-size: 2.5rem;
+    }
+  
+    /* Medium devices (desktops, 992px and up) */
+    @media (min-width: 992px) {
+      font-size: 3.125rem;
+    }
+  
+    /* Large devices (large desktops, 1200px and up) */
+    @media (min-width: 1200px) {
+      font-size: 3.8rem;
+    }
+  }
+
+
