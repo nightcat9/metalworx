@@ -18,6 +18,10 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
+p {
+    font-size: 17px;
+}
+
 
 .homeHeader,
 .aboutHeader,
@@ -80,8 +84,6 @@ ul {
     margin: 0;
     padding: 0; 
 }
-
-
 
 .centered-text, .cardTitle {
     position: absolute;
@@ -209,5 +211,7 @@ h1 {
       font-size: 3.8rem;
     }
   }
+
+
 
 
