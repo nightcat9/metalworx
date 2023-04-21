@@ -42,13 +42,13 @@ function CastingsPage() {
                     <Row>
                         <Col sm={12} md={6}>
                             <div className='casting-img'>
-                                <img className='img-fluid' src={CastingGuy} alt="employee pouring hot metal in casting" width={500} />
+                                <img className='img-fluid' src={CastingGuy} alt="employee pouring hot metal into casting" width={500} />
                             </div>
 
                         </Col>
                         <Col sm={12} md={6}>
                             <div className='casting-img'>
-                                <img className='img-fluid' src={GearPiece} alt="Metal gear" width={500} />
+                                <img className='img-fluid' src={GearPiece} alt="Single metal gear sitting on its side" width={500} />
                             </div>
 
                         </Col>

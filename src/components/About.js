@@ -1,6 +1,6 @@
 import Container from 'react-bootstrap/Container';
 import AboutHeader from '../images/about-header.jpg';
-import { Row, Col, CardGroup, Card } from 'react-bootstrap';
+import { Row, Col } from 'react-bootstrap';
 import Employee from '../images/employee.jpg';
 import Meeting from '../images/meeting.jpg';
 import '../styles/Main.css';
@@ -40,13 +40,13 @@ function AboutPage() {
                     <Row>
                         <Col sm={12} md={6}>
                             <div className='about-img'>
-                                <img className='img-fluid' src={Employee} alt="employee working in metal manufacturing company" width={500} />
+                                <img className='img-fluid' src={Employee} alt="Employee wearing hard hat and working on a machine in metal manufacturing company" width={500} />
                             </div>
 
                         </Col>
                         <Col sm={12} md={6}>
                             <div className='about-img'>
-                                <img className='img-fluid' src={Meeting} alt="employees having meeting" width={500} />
+                                <img className='img-fluid' src={Meeting} alt="Male and female employees having a meeting and writing stuff down on a paper" width={500} />
                             </div>
 
                         </Col>

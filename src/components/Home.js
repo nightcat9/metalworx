@@ -48,7 +48,7 @@ function HomePage() {
                             <div className='img'>
                                 <Nav.Link as={Link} to={"/machining"}>
                                     <Card className="bg-dark text-white">
-                                        <Card.Img src={MachiningLink} alt="Drilling into metal" />
+                                        <Card.Img src={MachiningLink} alt="Machine drilling into metal" />
                                         <Card.ImgOverlay>
                                             <div className='cardTitle'>
                                                 <Card.Title><h3>Machining</h3></Card.Title>
