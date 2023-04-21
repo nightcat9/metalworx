@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/metalworx/static/css/main.8eee9e18.css",
-    "main.js": "/metalworx/static/js/main.66b254a8.js",
+    "main.js": "/metalworx/static/js/main.0d03660f.js",
     "static/media/home-hero.jpg": "/metalworx/static/media/home-hero.91a149b04e7e6c26c403.jpg",
     "static/media/hydraulic.jpg": "/metalworx/static/media/hydraulic.012725419efb25aa0538.jpg",
     "static/media/agriculture.jpg": "/metalworx/static/media/agriculture.f7d58de4a7c70a666733.jpg",
@@ -33,10 +33,10 @@
     "static/media/product-link.jpg": "/metalworx/static/media/product-link.39a6de2eddaace7a6fbf.jpg",
     "index.html": "/metalworx/index.html",
     "main.8eee9e18.css.map": "/metalworx/static/css/main.8eee9e18.css.map",
-    "main.66b254a8.js.map": "/metalworx/static/js/main.66b254a8.js.map"
+    "main.0d03660f.js.map": "/metalworx/static/js/main.0d03660f.js.map"
   },
   "entrypoints": [
     "static/css/main.8eee9e18.css",
-    "static/js/main.66b254a8.js"
+    "static/js/main.0d03660f.js"
   ]
 }
