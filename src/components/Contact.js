@@ -1,6 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import ContactHeader from '../images/contact-header.jpg';
 import { Row, Col } from 'react-bootstrap';
+import Card from 'react-bootstrap/Card';
 import { FiPhone, FiMapPin, FiMail } from "react-icons/fi";
 import { BsCheckLg } from 'react-icons/bs';
 import { useState } from 'react';
@@ -42,14 +43,20 @@ function ContactPage() {
                     </Row>
                     <Row className='contact-address'>
                         <Col md={12} lg={{ span: 6, offset: 1 }}>
-                            { formSubmitted ? 
+                            {formSubmitted ?
                                 <div className='form-confirm'>
-                                    <BsCheckLg className='confirmed' />
-                                    <h3>Thank You!</h3>
-                                    <h5>The form was submitted successfully.</h5>
-                                    <p>We will contact you soon.</p>
+                                    <Card style={{ width: '25rem' }}>
+                                        <Card.Body>
+                                            <Card.Title><h3>Thank You!</h3></Card.Title>
+                                            <BsCheckLg className='confirmed' />
+                                            <Card.Text>
+                                                <h5>The form was submitted successfully.</h5>
+                                                <p>We will contact you soon.</p>
+                                            </Card.Text>
+                                        </Card.Body>
+                                    </Card>
                                 </div>
-                            : 
+                                :
                                 <form onSubmit={onSubmit}>
                                     <div className="mb-3">
                                         <label className="form-label" htmlFor="name">
@@ -84,7 +91,7 @@ function ContactPage() {
                                         </button>
                                     </div>
                                 </form>
-                            } 
+                            }
 
                         </Col>
                         <Col md={12} lg={{ span: 4, offset: 1 }}>
